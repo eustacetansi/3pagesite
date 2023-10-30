@@ -1,12 +1,22 @@
 .hero-section{
-    background-image: url("/asset/img/bg3.jpeg");
+    background-image: url("../asset/img/bg3.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     position: relative;
     height: 100vh;
 }
-
+.hero-section1{
+    background-image: url("../asset/img/bg1.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    height: 100vh;
+}
+.i{
+    width: 100%;
+}
 .pri-text-col{
     color: #ffffff !important;
 }
