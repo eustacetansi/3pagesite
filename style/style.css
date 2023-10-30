@@ -13,6 +13,12 @@
 .pri2-text-col{
     color: #113c14 !important;
 }
+.border{
+    border-radius: 50%;
+}
+.pri-bg-col{
+    background-color: rgb(247, 244, 241) !important;
+}
 .z{
     position: fixed;
     height: 10vh;
